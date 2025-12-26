@@ -1,6 +1,7 @@
 # Agente Domain Storytelling
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Docs](https://img.shields.io/badge/docs-md-blue.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) 
+[![Docs](https://img.shields.io/badge/docs-md-blue.svg)]
 
 **A collection of agents and skills to support Domain Storytelling practice** ✅
 
